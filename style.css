@@ -1,0 +1,50 @@
+#clock {
+font-size: 75px;
+width: 600px;
+margin-top:10%;
+margin-right: auto;
+margin-left: auto;
+text-align: center;
+border: 2px solid black;
+border-radius: 20px;
+background-color: white;
+}
+
+#date{
+  color:white;
+  font-size:300%;
+  width: 400px;
+  margin:auto;
+  margin-top: 2%;
+  text-align: center;
+}
+
+.background{
+  background-image:url("\Year Up Virtual Background 1.png");
+  background-size: auto;
+}
+
+.buttons{
+  text-align: center;
+  margin:auto;
+  margin-top: 2%;
+}
+
+.name{
+  margin-top: 5%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 40%;
+}
+
+.nameT{
+  color: white;
+}
+
+.title{
+  color:white;
+  font-family: 'Acme', sans-serif;
+  font-size: 500%;
+  text-align: center;
+}
